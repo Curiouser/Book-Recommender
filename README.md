@@ -1,9 +1,11 @@
 book_recommendation
 ==============================
 
-A short description of the project.
+Book recommender using the Book Crossing Dataset 
 
-Project Organization
+Dataset from : Improving Recommendation Lists Through Topic Diversification, by Cai-Nicolas Ziegler, Sean McNee, Joseph A. Konstan, Georg Lausen; Proceedings of the 14th International World Wide Web Conference (WWW '05), May 10-14, 2005, Chiba, Japan)
+
+
 ------------
 
     ├── LICENSE
